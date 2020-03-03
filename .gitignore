@@ -8,6 +8,7 @@ node_modules/
 # Compiled javascript
 ipywebrtc/static/
 js/lib/
+share
 
 # OS X
 .DS_Store

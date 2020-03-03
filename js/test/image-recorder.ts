@@ -22,7 +22,7 @@ describe("image recorder >", () => {
         let view = await this.manager.create_view(imageRecorder);
         await imageRecorder.snapshot()
         // console.log(imageRecorder.get('data'))
-        // let bytes = 
+        // let bytes =
         // expect()
         // view.recordButton.click()
         // why does this not compile?
